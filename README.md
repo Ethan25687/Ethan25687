@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethan25687
-- 👀 I’m interested in: PSVR PC Compatibility Software Development & Web Development currently.
-- 🌱 I’m currently learning: Web Development.
+- 👀 I’m interested in: Software Development & Web Development currently.
+- 🌱 I’m currently learning: Nothing at the moment.
 - 💞️ I’m looking to collaborate on: Nothing at the moment.
 - 📫 How to reach me: If you have my contact details, I gave them to you for a reason and you know how to reach me.
 
